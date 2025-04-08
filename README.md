@@ -1,5 +1,9 @@
 ```pr0xh4ck © 2025```
 
+
+``` Fish Can't live without water, Price can't live without SnR ```
+``` Train goes from one track to another, Price goes from one SnR to another ```
+
 ![demo](https://raw.githubusercontent.com/pr0xh4ck/trading/refs/heads/main/Candle%20Strength.png)
 
 
