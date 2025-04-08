@@ -1,5 +1,12 @@
 ```pr0xh4ck © 2025```
 
+<h1 align="center">
+  <br>
+    📈💸 Trading 📉📊
+  <br>
+  <br>
+</h1>
+
 
 ``` Fish Can't live without water, Price can't live without SnR ```
 ``` Train goes from one track to another, Price goes from one SnR to another ```
@@ -70,3 +77,4 @@
 
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
