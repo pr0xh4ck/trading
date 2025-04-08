@@ -1,6 +1,6 @@
 ```pr0xh4ck © 2025```
 
-![demo](https://github.com/pr0xh4ck/web-recon/raw/main/Candle%20Strength.png)
+![demo](https://raw.githubusercontent.com/pr0xh4ck/trading/refs/heads/main/Candle%20Strength.png)
 
 
 
