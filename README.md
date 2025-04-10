@@ -1,5 +1,7 @@
 ```pr0xh4ck © 2025```
 
+![demo](https://raw.githubusercontent.com/pr0xh4ck/trading/refs/heads/main/Pipscon.jpg)
+
 <h1 align="center">
   <br>
     📈💸 Trading 📉📊
