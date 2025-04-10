@@ -1,11 +1,8 @@
 ```pr0xh4ck © 2025```
 
-<h1 align="center">
-  <br>
+
 ![demo](https://raw.githubusercontent.com/pr0xh4ck/trading/refs/heads/main/Pipscon.jpg)
-  <br>
-  <br>
-</h1>
+
 
 
 <h2 align="center">
