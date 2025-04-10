@@ -16,7 +16,7 @@
 
 ### Vital Topic
 1. Japanese Candle Sticks
-2. Support and Resistance
+2. Support and Resistance of Horizontal and Vertical
 3. Supply and Demand Zone
 4. Target of Market
 5. Trend
@@ -36,11 +36,15 @@
 2. Bearish Engulfing
 3. Bullish Harami
 4. Bearish Harami
+5. Tweezer Tops
+6. Tweezer Bottoms
 
 
 ### Triple Candle Sticks Pattern
 1. Morning Star
 2. Evening Star
+3. Three White Soldier
+4. Three Black Crows
 
 
 
