@@ -34,6 +34,7 @@
 4. Inverted Hammer
 5. Doji
 6. Spinning Top
+7. Marubozu
 
 
 ### Double Candle Sticks Pattern
