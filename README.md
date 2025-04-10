@@ -5,12 +5,12 @@
 
 
 
-<h2 align="center">
+<h1 align="center">
   <br>
     📈💸 Trading 📉📊
   <br>
   <br>
-</h2>
+</h1>
 
 
 ``` Fish Can't live without water, Price can't live without SnR ```
